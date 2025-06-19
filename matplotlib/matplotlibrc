@@ -42,7 +42,7 @@ ytick.minor.pad : 2
 axes.ymargin    : 0.025
 
 # Set line widths
-axes.linewidth  : 0.5
+axes.linewidth  : 0.85
 lines.linewidth : 1.0
 lines.dash_capstyle:   round        # {butt, round, projecting}
 lines.solid_capstyle:  round

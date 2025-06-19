@@ -7,7 +7,7 @@ axes.prop_cycle    : cycler('color', ['0F4C81','E2583E','009473','BF1932','5F4B8
 # Set default figure size
 figure.figsize : 3.41, 2.575
 
-# Set grid
+# Set grid/axes
 axes.grid        :   False
 grid.linewidth   :   0.5      # in points
 grid.alpha	 :   0.5
@@ -16,6 +16,7 @@ axes.axisbelow   :   line
 axes.formatter.use_mathtext: True
 axes.labelpad : -1.0
 grid.linestyle : -
+axes.titlepad : 2
 
 # Set x axis
 xtick.direction : in
